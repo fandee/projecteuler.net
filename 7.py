@@ -26,4 +26,4 @@ while n != 10002:
 t2 = time() # end time
 
 print('Answer:', i)
-print('Time:', (t2-t1)/1000, 'sec') # 0.0006-0.0007
+print('Time:', (t2-t1), 'sec')
